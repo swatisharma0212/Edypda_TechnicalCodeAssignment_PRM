@@ -1,4 +1,4 @@
-# Edypda_TechnicalCodeAssignment_PRM
+# Edyoda_TechnicalCodeAssignment_PRM
 
 Question1:  You will have a number of elements and in the next n lines element of a list. You have to create a list from the given strings. You have to sort the list based on 2nd last character of a string.
 
